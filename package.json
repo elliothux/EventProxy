@@ -1,6 +1,13 @@
 {
-  "name": "EventProxy",
-  "version": "1.0.0",
+  "name": "event-proxy.js",
+  "version": "0.0.2",
   "main": "index.js",
-  "license": "MIT"
+  "keywords": ["event proxy", "event", "js", "nodejs"],
+  "author": "HuQingyang <i@do.codes>",
+  "license": "MIT",
+  "homepage": "https://github.com/HuQingyang/EventProxy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuQingyang/EventProxy"
+  }
 }

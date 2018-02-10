@@ -1,12 +1,12 @@
 # A ease-to-use event proxy within 1KB
 
 ## Install
-`npm install event-proxy`
+`npm install event-proxy.js`
 
 ## Basic Usage
 
 ```js
-import EventProxy from 'event-proxy';
+import EventProxy from 'event-proxy.js';
 const event = new EventProxy();
 
 const sayHello = (name) => console.log(`Hello ${name}`);

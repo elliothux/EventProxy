@@ -47,4 +47,6 @@ class EventProxy {
 
 
 export default EventProxy;
-module && (module.export = EventProxy);
+if (module) {
+    module.export = EventProxy;
+}
