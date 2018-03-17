@@ -1,4 +1,4 @@
-# A ease-to-use event proxy within 1KB
+# A ease-to-use event proxy within 1.5KB
 
 ## Install
 `npm install event-proxy.js`
